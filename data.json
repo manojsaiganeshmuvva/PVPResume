@@ -1,8 +1,49 @@
 {
-  "profile":{
-    "name":"MANOJ SAI GANESH MUVVA",
-    "email":"manojsaiganeshmuvva@gmail.com",
-    "moblie":"9346956656",
-    "Address":"pvp siddharatha college"
-  }
-}
+ "details":{
+  "name": "manojsaiganeshmuvva",
+  "image":"k.jpg",
+  "phoneno":"8500154572",
+  "email":"manojsaiganeshmuvva@gmail.com",
+  "address":"PVP College"
+},
+
+   "career":{
+     "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+   },
+   "education":[
+     {
+       "degree":"B.Tech",
+       "institute":"PVPSIT",
+       "data":["2015-19]","80%"]
+     },
+     {
+       "degree":"Intermediate",
+       "institute":"narayana Junior College",
+       "data":["2014-16","80%"]
+     },
+     {
+       "degree":"S.S.C",
+       "institute":"narayana best foundation School",
+       "data":["2014","8.3"]
+     }
+   ],
+
+   "skills":[
+     {
+       "title":"Programming Language",
+       "info":["C","C++","Python","Java","Ruby","R"]
+     },
+     {
+       "title":"Databases",
+       "info":["Oracle","mySql","Sql"]
+     },
+     {
+       "title":"Operating Systems",
+       "info":["Windows","MAC","Unix","kaliLinux"]
+     },
+     {
+       "title":"Web Technologies",
+       "info":["HTML","CSS","XML","JavaSript"]
+     }
+   ]
+ }
