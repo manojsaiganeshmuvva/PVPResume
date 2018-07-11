@@ -1,0 +1,38 @@
+.parent{
+  display:flex;
+  flex-direction: row;
+  border:2px solid #ddd;
+}
+.childone{
+  width:30%;
+  border:2px solid red;
+  padding:2%;
+  margin:2%;
+  background-color: red;
+  border-radius: 10xp;
+}
+  .childtwo{
+
+
+  width:70%;
+  border:2px solid red;
+  padding:2%;
+  margin:2%;
+    background-color: yellow;
+    border-radius: 10xp;
+
+
+}
+img{
+width:80px;
+height=90px;
+display:block;
+margin-left: auto;
+margin-right: auto;
+border-radius:50%;
+box-shadow:9px 6px 8px red;
+}
+
+a{
+  word-wrap: break-word;
+}
